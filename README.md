@@ -28,5 +28,5 @@ Python (pandahouse, pandas, numpy, seaborn, scipy, hashlib, swifter).
 
 ![скриншот](Screenshot.png)
 
-Ознакомиться с файлом решения можно здесь: **[A-A_testing](A-A testing.ipynb)**
+Ознакомиться с файлом решения можно здесь: **[A-A_testing](https://github.com/NailyaGalina/Statistic_A-A_testing/blob/main/A-A%20testing.ipynb)**
 
